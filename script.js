@@ -7,7 +7,6 @@ lineas
 */
 
 //Variables
-
 let nombre ="Arturo";
 const PI = 3.1416;
 var edad = 18;
